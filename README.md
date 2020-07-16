@@ -15,6 +15,7 @@ Hi there 👋 I'm a frontend developer with a passion for user experience and ac
 
 :floppy_disk: TECH STACK </h2>
 
+<p align="center">
 <br>
 <img src="img/bootstrap.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
 <img src="img/css.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
