@@ -1,4 +1,4 @@
-![Katie Barriere Banner](img/katie-barriere.gif)
+![Katie Barriere Banner](https://github.com/kt2187/kt2187/blob/master/img/katie-barriere.gif)
 
 # :woman_technologist: ABOUT ME
 
@@ -21,13 +21,13 @@ Hi there 👋 I'm a frontend developer with a passion for user experience and ac
 
 <p align="center">
 <br>
-<img src="img/bootstrap.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
-<img src="img/css.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
-<img src="img/html.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
-<img src="img/js-logo.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
-<img src="img/node.svg" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
-<img src="img/react.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
-<img src="img/sass.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
+<img src="https://github.com/kt2187/kt2187/blob/master/img/bootstrap.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
+<img src="https://github.com/kt2187/kt2187/blob/master/img/css.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
+<img src="https://github.com/kt2187/kt2187/blob/master/img/html.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
+<img src="https://github.com/kt2187/kt2187/blob/master/img/js-logo.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
+<img src="img/https://github.com/kt2187/kt2187/blob/master/img/node.svg" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
+<img src="https://github.com/kt2187/kt2187/blob/master/img/react.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
+<img src="https://github.com/kt2187/kt2187/blob/master/img/sass.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
 </p>
 <br>
 
