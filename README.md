@@ -15,7 +15,7 @@ Hi there 👋 I'm a frontend developer with a passion for user experience and ac
 - 💬 Ask me about front-end development, MERN stack, and coding resources. I am the queen of resources.
 - 📫 How to reach me: kt@katietbarriere.com
 - 😄 Pronouns: She, her, hers
-- ⚡ Fun fact: I'm learning to play the marimba-->
+- ⚡ Fun fact: I'm learning to play the marimba
 
 ## :floppy_disk: TECH STACK
 
