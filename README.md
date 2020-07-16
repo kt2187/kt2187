@@ -9,7 +9,7 @@ Hi there 👋 I'm a frontend developer with a passion for user experience and ac
 - 👯 I’m looking to collaborate on entry level projects
 - 🤔 I’m looking for help finding an entry-level junior developer position in MA or RI
 - 💬 Ask me about front-end development, MERN stack, and coding resources. I am the queen of resources.
-- 📫 How to reach me: kt@katietbarriere.com | katiebarriere.com | twitter.com/katiebarriere
+- 📫 How to reach me: kt@katietbarriere.com 
 - 😄 Pronouns: She, her, hers
 - ⚡ Fun fact: I'm learning to play the marimba-->
 
