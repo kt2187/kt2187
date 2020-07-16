@@ -2,6 +2,11 @@
 
 :woman_technologist: ABOUT ME
 
+
+:earth_americas:  [website][website] **|**
+:mailbox: [e-mail][e-mail] **|**
+:bird: [twitter][twitter]
+
 Hi there 👋 I'm a frontend developer with a passion for user experience and accessibility dedicated to pursuing a long-term career change in web development after competing in the Grow with Google Developer Challenge and completing a rigorous computer science program.
 
 - 🔭 I’m currently working on an ecommerce React site
@@ -13,7 +18,7 @@ Hi there 👋 I'm a frontend developer with a passion for user experience and ac
 - 😄 Pronouns: She, her, hers
 - ⚡ Fun fact: I'm learning to play the marimba-->
 
-:floppy_disk: TECH STACK </h2>
+:floppy_disk: TECH STACK 
 
 <p align="center">
 <br>
@@ -26,3 +31,7 @@ Hi there 👋 I'm a frontend developer with a passion for user experience and ac
 <img src="img/sass.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
 </p>
 <br>
+
+[website]: http://www.katiebarriere.com
+[e-mail]: kt@katiebarriere.com
+[twitter]: https://twitter.com/katiebarriere
