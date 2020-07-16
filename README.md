@@ -25,7 +25,7 @@ Hi there 👋 I'm a frontend developer with a passion for user experience and ac
 <img src="https://github.com/kt2187/kt2187/blob/master/img/css.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
 <img src="https://github.com/kt2187/kt2187/blob/master/img/html.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
 <img src="https://github.com/kt2187/kt2187/blob/master/img/js-logo.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
-<img src="img/https://github.com/kt2187/kt2187/blob/master/img/node.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
+<img src="https://github.com/kt2187/kt2187/blob/master/img/node.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
 <img src="https://github.com/kt2187/kt2187/blob/master/img/react.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
 <img src="https://github.com/kt2187/kt2187/blob/master/img/sass.png" height="50px" style="max-width: 100%;"> &nbsp; &nbsp;
 </p>
