@@ -1,7 +1,6 @@
 ![Katie Barriere Banner](img/katie-barriere.gif)
 
-:woman_technologist: ABOUT ME
-
+# :woman_technologist: ABOUT ME
 
 :earth_americas:  [website][website] **|**
 :mailbox: [e-mail][e-mail] **|**
@@ -18,7 +17,7 @@ Hi there 👋 I'm a frontend developer with a passion for user experience and ac
 - 😄 Pronouns: She, her, hers
 - ⚡ Fun fact: I'm learning to play the marimba-->
 
-:floppy_disk: TECH STACK 
+## :floppy_disk: TECH STACK 
 
 <p align="center">
 <br>
