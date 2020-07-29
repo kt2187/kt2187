@@ -34,3 +34,9 @@ Hi there 👋 I'm a frontend developer with a passion for user experience and ac
 [website]: http://www.katiebarriere.com
 [e-mail]: kt@katiebarriere.com
 [twitter]: https://twitter.com/katiebarriere
+
+## :computer: #100DaysOfGithub in progress
+
+<div>
+   <img src="https://ghchart.rshah.org/ff645e/kt2187" alt="kt2187's Github chart"/>
+ </div>
