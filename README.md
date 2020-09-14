@@ -6,7 +6,7 @@
 :mailbox: [e-mail][e-mail] **|**
 :bird: [twitter][twitter]
 
-Hi there 👋 I'm a frontend developer with a passion for user experience and accessibility dedicated to pursuing a long-term career change in web development after competing in the Grow with Google Developer Challenge and completing a rigorous computer science program.
+Hi there 👋 I'm a front-end web developer with a passion for user experience and accessibility. I focus on crafting clean, user-friendly experiences that are fully inclusive and love using technology to connect people to resources within their communities. I'm currently working as a freelance web developer making websites and web applications but am always open to new opportunities. Feel free to contact me with your project ideas. I'm ready when you are.
 
 - 🔭 I’m currently working on an ecommerce React site
 - 🌱 I’m learning about MERN stack, Java, and how to make bots with Python
