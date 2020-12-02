@@ -38,5 +38,5 @@ Hi there 👋 I'm a UX Design Developer with a passion for user experience and w
 ## :computer: #365DaysOfGithub in progress
 
 <div>
-   <img src="https://ghchart.rshah.org/ff645e/kt2187" alt="kt2187's Github chart"/>
+   <img src="https://ghchart.rshah.org/578286/kt2187" alt="kt2187's Github chart"/>
  </div>
