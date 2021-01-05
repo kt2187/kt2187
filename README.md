@@ -6,14 +6,14 @@
 :mailbox: [e-mail][e-mail] **|**
 :bird: [twitter][twitter]
 
-Hi there 👋 I'm a UX Design Developer with a passion for user experience and web accessibility. I focus on crafting clean, user-friendly experiences that are fully inclusive and love using technology to connect people to resources within their communities. I'm currently working as a freelance web developer making websites and web applications but am always open to new opportunities. Feel free to contact me with your project ideas. I'm ready when you are.
+Hi there 👋 I'm a UX Developer with a passion for user experience and web accessibility. I focus on crafting clean, user-friendly experiences that are fully inclusive and love using technology to connect people to resources within their communities. I'm currently working as a freelance web developer making websites and web applications but am always open to new opportunities. Feel free to contact me with your project ideas. I'm ready when you are.
 
 - 🔭 I’m currently working on an activities management app for parents.
 - 🌱 I’m learning about UX Design and Research.
 - 👯 I’m looking to collaborate on entry level projects
-- 🤔 I’m looking for help finding an entry-level UX Design Developer position in MA or RI
+- 🤔 I’m looking for help finding an entry-level UX Developer position in MA or RI
 - 💬 Ask me about UX Design, Front End Development, MERN stack, and coding resources. I am the queen of resources.
-- 📫 How to reach me: kt@katietbarriere.com
+- 📫 How to reach me: katiebarriere.com
 - 😄 Pronouns: She, her, hers
 - ⚡ Fun fact: I'm learning to play the marimba
 
