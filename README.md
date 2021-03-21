@@ -6,11 +6,8 @@
 :mailbox: [e-mail][e-mail] **|**
 :bird: [twitter][twitter]
 
-Hi there 👋 I'm a UX Developer with a passion for user experience and web accessibility. I focus on crafting clean, user-friendly experiences that are fully inclusive and love using technology to connect people to resources within their communities. I'm currently working as a UX Designer but am always open to new opportunities. Feel free to contact me with your project ideas. I'm ready when you are.
+Hi there 👋 I'm a UX/UI Designer who is passionate about diversity, equity, inclusion, and social justice. I use knowledge and skills developed in a previous career as an educational advocate to create inclusive experiences that help people achieve their goals.
 
-- 🔭 I’m currently working on an activities management app for parents.
-- 📫 How to reach me: katiebarriere.com
-- 😄 Pronouns: She, her, hers
 
 ## :floppy_disk: TECH STACK
 
